@@ -1,0 +1,34 @@
+_repo: Elaman-harha-b-Runoja_74387
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Liinamaa-Pärssinen, Hilja
+    aliases:
+    - Liinamaa, Hilja
+    - Liinamaa-Parssinen, Hilja
+    - Pärssinen, Hilja
+    birthdate: 1876
+    deathdate: 1935
+    gutenberg_agent_id: '33713'
+    url: http://www.gutenberg.org/2009/agents/33713
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Hilja_P%C3%A4rssinen
+    - https://fi.wikipedia.org/wiki/Hilja_P%C3%A4rssinen
+description: ''
+gutenberg_issued: '2024-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74387'
+language: fi
+pgterms:marc905: 20230827051942prssinen
+pgterms:marc906: '1917'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Elämän harha : $b Runoja'
+url: http://www.gutenberg.org/ebooks/74387
